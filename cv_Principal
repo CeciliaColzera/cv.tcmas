@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Cecilia Edel Colzera">
+    <meta name="description" content="Proyecto TICMAS Curriculum Vitae">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CV Cecilia Edel Colzera</title>
+    <link rel="stylesheet" type="text/css" href="Style_css\Archivo externo\css_externo"/>
+    <img src="https://i.pinimg.com/564x/a0/19/ae/a019aee171a28fb9e53e9d2c15bcd84b.jpg"width="160" height="190"/>
+</head>
+<body>
+<section id="Datos Personales" class="Datos Personales">
+    <div class="Cuadro">
+      <h1 class="section-titulo">Datos Personales</h1>
+      <p>Mi Nombre es Cecilia Colzera, tengo 30 años y vivo en la Pcia de Buenos Aires. Pertenezco a las Fuerzas Armadas desde hace 8 años desempeñandome en el Sector de Mantenimiento de Equipo y Gestion de Recursos.</p>
+    </div>
+  </section>
+  <section id="Formacion Academica" class="Formacion Academica">
+    <div class="Cuadro">
+    <h2><strong>Formacion Academica</strong></h2>
+    <p>
+        <ul><em>Carreras de Grado y Pregrado</em></ul>
+        <li>Licenciatura en Organizacion y Gestion Logistica (UNFEF).</li>
+        <li>Tecnicatura en Higiene y Seguridad Laboral (UTN).</li>
+        <li>Diplomatura en Gestion de Materiales Peligrosos(UTN).</li>
+    </p>
+    </div>
+    </section>
+    <section id="Cursos" class="Cursos">
+        <div class="Cuadro">
+    <h3><strong>Cursos</strong></h3>
+    <p>
+        <li>Apoyo Logístico en Operaciones de Paz de la ONU (Peace OPS Training).</li>
+        <li>Perspectivas de Género en Operaciones de Paz de la ONU (Peace OPS Training).</li>
+        <li>Previniendo la Violencia y La Desigualdad de Género en el Mantenimiento de Paz (Peace OPS Training).</li>
+        <li>Ley Micaela (INAP).</li>
+        <li>Ética para el Mantenimiento de la Paz (Peace OPS Training).</li>
+        <li>Clasificación y Etiquetado de Productos Químicos (SRT).</li>
+        <li>Toxicología Ambiental, Laboral y Residuos Tóxicos (UTN).</li>
+        <li>Seminario de Actualizacion de Armas Quimicas (UM).</li>
+    </p>
+        </div>
+    </section>
+    <section id="Idiomas" class="Idiomas">
+        <div class="Cuadro">
+    <h4><strong>Idiomas</strong></h4>
+    <p>
+        <li>Ingles Tecnico 2 (UTN).</li>
+    </p>
+        </div>
+    </section>
+    <section id="Experiencia Laboral" class="Experiencia Laboral">
+        <div class="Cuadro">
+    <h4><strong>Experiencia Laboral</strong></h4>
+    <p>
+        <ul><em>Fuerzas Armadas</em></ul>
+        <li>Cinco años como Oficial de Mantenimiento (2015/2020).</li>
+        <li>Dos años como Oficial de Personal (2021/2023).</li>
+        <li>Actualmente me desempeño como Oficial de Transporte y Oficial de Mantenimiento.</li>
+    </p>
+        </div>
+    </section>
+    <h5>Datos de contacto</h5>
+    <p><e-mail>c_colzera@gmail.com</e-mail></p>
+    <p>Telefono 1121866600</p>  
+</body>
+</html>
